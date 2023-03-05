@@ -1,0 +1,17 @@
+{
+    "name": "Cup Of Bots",
+    "short_name": "COB",
+    "theme_color": "#00979c",
+    "background_color": "#00979c",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+           "src": "./COB_logo.png",
+           "type": "image/png",
+           "sizes": "512x512"
+        }
+    ]
+  }
