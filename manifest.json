@@ -5,7 +5,7 @@
     "background_color": "#00979c",
     "display": "standalone",
     "orientation": "portrait",
-    "scope": "/",
+    "scope": "https://sukarnascience.github.io/CupOfBots/",
     "start_url": "/",
     "icons": [
         {
